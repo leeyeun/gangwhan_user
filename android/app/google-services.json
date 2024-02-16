@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "210146483937",
+    "project_id": "gangwhanuser",
+    "storage_bucket": "gangwhanuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210146483937:android:519d2f8fb30a52d377a1a0",
+        "android_client_info": {
+          "package_name": "com.dmonster.dmonster1599rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210146483937-qj2pkvf846op5b53hlejebas3megheig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlIaN-U0bEMzCo_URAOt81sqCEoAzLME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210146483937-qj2pkvf846op5b53hlejebas3megheig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210146483937-vqqj0p3g8v5kcr7eo76jqg7vvkkhl2s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dmonster.gangwhanuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210146483937:android:05d998687341301577a1a0",
+        "android_client_info": {
+          "package_name": "com.dmonster.dmonster1599store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210146483937-qj2pkvf846op5b53hlejebas3megheig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlIaN-U0bEMzCo_URAOt81sqCEoAzLME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210146483937-qj2pkvf846op5b53hlejebas3megheig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210146483937-vqqj0p3g8v5kcr7eo76jqg7vvkkhl2s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dmonster.gangwhanuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210146483937:android:879fc9e3ea4e48a677a1a0",
+        "android_client_info": {
+          "package_name": "com.dmonster.dmonster1599user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210146483937-qj2pkvf846op5b53hlejebas3megheig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlIaN-U0bEMzCo_URAOt81sqCEoAzLME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210146483937-qj2pkvf846op5b53hlejebas3megheig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210146483937-vqqj0p3g8v5kcr7eo76jqg7vvkkhl2s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dmonster.gangwhanuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210146483937:android:83c3bd95819278b377a1a0",
+        "android_client_info": {
+          "package_name": "com.dmonster.gangwhanuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210146483937-qj2pkvf846op5b53hlejebas3megheig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTlIaN-U0bEMzCo_URAOt81sqCEoAzLME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210146483937-qj2pkvf846op5b53hlejebas3megheig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210146483937-vqqj0p3g8v5kcr7eo76jqg7vvkkhl2s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dmonster.gangwhanuser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

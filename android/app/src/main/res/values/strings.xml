@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">강화N</string>
+    <string name="kakao_app_key">c30dcdf9c26afa66d48909a0ff9e6607</string>
+    <string name="default_notification_channel_id">gwn_default</string>
+</resources>
